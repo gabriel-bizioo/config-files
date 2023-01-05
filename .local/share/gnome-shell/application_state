@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="steam.desktop" score="4590" last-seen="1672857387"/>
+    <application id="com.ktechpit.whatsie.desktop" score="28" last-seen="1672696765"/>
+    <application id="org.gnome.Settings.desktop" score="164" last-seen="1672898079"/>
+    <application id="org.qbittorrent.qBittorrent.desktop" score="233" last-seen="1672856092"/>
+    <application id="firefox.desktop" score="19554" last-seen="1672937840"/>
+    <application id="org.videolan.VLC.desktop" score="28" last-seen="1672898048"/>
+    <application id="org.gnome.Software.desktop" score="7" last-seen="1672854693"/>
+    <application id="discord_discord.desktop" score="614" last-seen="1672800719"/>
+    <application id="kitty.desktop" score="4963" last-seen="1672937824"/>
+    <application id="org.gnome.Totem.desktop" score="12" last-seen="1672898081"/>
+    <application id="com.github.micahflee.torbrowser-launcher.desktop" score="81" last-seen="1672854687"/>
+    <application id="org.gnome.Nautilus.desktop" score="7" last-seen="1672898081"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="2" last-seen="1672854180"/>
+  </context>
+</application-state>
